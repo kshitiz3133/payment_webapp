@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
          ThemeMode.light for light theme,
          ThemeMode.dark for dark theme
       */
-      home: HomePage(),
+      home: Activator(),
     );
   }
 }
